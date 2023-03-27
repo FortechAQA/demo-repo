@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo project for github classroom",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FortechAQA/demo-repo.git"
+  },
+  "author": "Raul Genescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FortechAQA/demo-repo/issues"
+  },
+  "homepage": "https://github.com/FortechAQA/demo-repo#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
